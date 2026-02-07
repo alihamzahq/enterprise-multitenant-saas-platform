@@ -102,6 +102,7 @@ This repository exists to demonstrate:
 - Ability to work on **large, long-running systems**
 - Strong understanding of **scalability, security, and system design**
 
+📁 Detailed technical documentation is available here: [/docs](./docs)
 ---
 
 ## Related Public Links
