@@ -224,7 +224,7 @@ graph TB
     AccountTrait -.-> Bypass
 ```
 
-📁 **More diagrams:** [Request Lifecycle](./docs/request-lifecycle.md) · [Auth Flow](./docs/auth-flow.md) · [Database Schema](./docs/database-schema.md)
+📁 **More diagrams:** [Request Lifecycle](./docs/request-lifecycle.md) · [Auth Flow](./docs/auth-flow.md) · [Database Schema](./docs/database-schema.md) · [Modular Architecture](./docs/modular-architecture.md)
 
 ## Tech Stack
 
